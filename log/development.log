@@ -1,0 +1,12 @@
+# Logfile created on Mon May 04 14:04:59 -0700 2009
+
+Processing GamesController#new (for 127.0.0.1 at 2009-05-04 14:20:04) [GET]
+Rendering template within layouts/application
+Rendering games/new
+Completed in 61ms (View: 60, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing GamesController#new (for 127.0.0.1 at 2009-05-04 14:20:18) [GET]
+Rendering template within layouts/application
+Rendering games/new
+Completed in 65ms (View: 63, DB: 0) | 200 OK [http://greed.local/]
